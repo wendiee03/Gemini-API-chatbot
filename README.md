@@ -9,7 +9,6 @@ A Google Cloud Platform project with an API key enabled for the Generative AI AP
 Installation:
 Clone the repository:
 git clone (https://github.com/wendiee03/Gemini-API-chatbot.git)
-Use code with caution.
 
 Install dependencies:
 cd your-project-name
